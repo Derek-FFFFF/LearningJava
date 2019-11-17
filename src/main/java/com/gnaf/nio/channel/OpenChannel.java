@@ -1,6 +1,5 @@
 package com.gnaf.nio.channel;
 
-import jdk.management.resource.internal.inst.FileChannelImplRMHooks;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
